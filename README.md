@@ -30,4 +30,4 @@ Handles uppercase & lowercase letters.
 ## 🔥 Demo
 Here’s how the Caesar Cipher program works:
 
-![Demo](DEMO.PNG)
+![Demo](DEMO.png)
