@@ -27,3 +27,7 @@ Encrypts text with a shift value.
 Decrypts text with the same shift value.
 
 Handles uppercase & lowercase letters.
+## 🔥 Demo
+Here’s how the Caesar Cipher program works:
+
+![Demo](DEMO.PNG)
